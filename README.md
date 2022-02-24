@@ -1,7 +1,7 @@
 # ACTDemo
 基于UE4实现的ACT技能Demo
 
-项目将C++实现的功能逻辑插件化，主项目以蓝图为主。
+项目将C++实现的功能逻辑插件化(见Plugin下ACTGame模块)，主项目以蓝图为主。
 
 ### 示例
 ![](./SampleIMG/Punch_Normal.gif)
